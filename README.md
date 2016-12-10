@@ -1,16 +1,10 @@
 # VanillaCNN
 
-This is a mxnet implementation of the Vanilla CNN
+This is a mxnet implementation of the Vanilla CNN.
 
+VanillaCNN is used to detect  facial landmarks.
 
-###  Network structure
-
-VanillaCNN is used to detect facial landmarks.
-
-![VanillaCNN](http://img.blog.csdn.net/20161210161319875)
-
-
-###Result
+## Result
 
 Original image:
 
@@ -20,7 +14,7 @@ Landmarks:
 
 ![landmark](https://github.com/flyingzhao/mxnet_VanillaCNN/blob/master/landmark.jpg)
 
-###Original paper
+## Reference
 
  Yue Wu and Tal Hassner, "Facial Landmark Detection with Tweaked Convolutional Neural Networks", arXiv preprint arXiv:1511.04031, 12 Nov. 2015.
 
